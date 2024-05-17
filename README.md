@@ -1,0 +1,1 @@
+Atividade referente ao exercício do módulo JavaScript Avançado do curso DevQuest.
